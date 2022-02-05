@@ -1,3 +1,5 @@
 Container Layer Analyzer https://github.com/dcermak/container-layer-sizes
 TinyGo https://tinygo.org
 A cloud native Kubernetes Global Balancer https://www.k8gb.io/
+DevOps for everyone: https://unfurl.run/
+Running Remote workshops https://docs.google.com/presentation/d/1qiBENz2EGPC7e7RaskuXwydh1Nz1RokqtdLI2m1Zxjs/edit#slide=id.gfd37a74d21_0_199
